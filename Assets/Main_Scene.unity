@@ -520,7 +520,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 780, y: 66.38634}
+  m_SizeDelta: {x: 200, y: 66.38634}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &453773155
 MonoBehaviour:
@@ -581,7 +581,7 @@ MonoBehaviour:
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
-  m_RaycastPadding: {x: 20, y: 0, z: 0, w: 0}
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -1193,7 +1193,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 780, y: 66.38634}
+  m_SizeDelta: {x: 200, y: 66.38634}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1057316258
 MonoBehaviour:
@@ -1449,7 +1449,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 780, y: 66.38634}
+  m_SizeDelta: {x: 200, y: 66.38634}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1605381925
 MonoBehaviour:
