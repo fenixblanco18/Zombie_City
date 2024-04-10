@@ -618,7 +618,7 @@ GameObject:
   - component: {fileID: 35560737}
   - component: {fileID: 35560736}
   m_Layer: 0
-  m_Name: ZombieTorpe (15)
+  m_Name: ZombieTorpe15
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1369,6 +1369,72 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4371593820568818, guid: cdceb42320b2935458d9cb4f6e9a6664, type: 3}
   m_PrefabInstance: {fileID: 84981606}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &88666826
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 520204805}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &88666827 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 88666826}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &94619432
 PrefabInstance:
@@ -2182,7 +2248,7 @@ GameObject:
   - component: {fileID: 160019983}
   - component: {fileID: 160019982}
   m_Layer: 0
-  m_Name: ZombieTorpe (10)
+  m_Name: ZombieTorpe7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2430,7 +2496,7 @@ GameObject:
   - component: {fileID: 183998282}
   - component: {fileID: 183998281}
   m_Layer: 0
-  m_Name: ZombieTorpe (16)
+  m_Name: ZombieTorpe16
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2578,6 +2644,72 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4542802297106392, guid: 8a46d37979b9c6e43aef7bd53494227b, type: 3}
   m_PrefabInstance: {fileID: 184726052}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &188521419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 626809990}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &188521420 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 188521419}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &194318940
 PrefabInstance:
@@ -2794,7 +2926,7 @@ GameObject:
   - component: {fileID: 218949143}
   - component: {fileID: 218949142}
   m_Layer: 0
-  m_Name: ZombieTorpe (5)
+  m_Name: ZombieTorpe11
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2881,6 +3013,72 @@ MonoBehaviour:
   speed: 0.2
   minAngle: 110
   maxAngle: 220
+--- !u!1001 &222249019
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 582707808}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &222249020 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 222249019}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &224085435
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4748,7 +4946,7 @@ GameObject:
   - component: {fileID: 339597773}
   - component: {fileID: 339597772}
   m_Layer: 0
-  m_Name: ZombieTorpe (18)
+  m_Name: ZombieTorpe18
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5267,7 +5465,7 @@ GameObject:
   - component: {fileID: 380316381}
   - component: {fileID: 380316380}
   m_Layer: 0
-  m_Name: ZombieTorpe (1)
+  m_Name: ZombieTorpe1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6812,6 +7010,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4937060029079926, guid: 24a5f7c212479624ba65a0ad94f34342, type: 3}
   m_PrefabInstance: {fileID: 512056903}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &520204804
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 520204805}
+  - component: {fileID: 520204809}
+  - component: {fileID: 520204808}
+  - component: {fileID: 520204807}
+  - component: {fileID: 520204806}
+  m_Layer: 0
+  m_Name: ZombieEspabilado7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &520204805
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520204804}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.28, y: -0.51, z: -56.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 88666827}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &520204806
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520204804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &520204807
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520204804}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &520204808
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520204804}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &520204809
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 520204804}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &530141872
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7319,6 +7637,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4187361873712528, guid: dc83d82e59754f34ea737a544b53fc9a, type: 3}
   m_PrefabInstance: {fileID: 582379090}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &582707807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 582707808}
+  - component: {fileID: 582707812}
+  - component: {fileID: 582707811}
+  - component: {fileID: 582707810}
+  - component: {fileID: 582707809}
+  m_Layer: 0
+  m_Name: ZombieEspabilado11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &582707808
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582707807}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 4.13, y: -0.51, z: -53.89}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 222249020}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &582707809
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582707807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &582707810
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582707807}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &582707811
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582707807}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &582707812
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 582707807}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &584604423
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7889,7 +8327,7 @@ GameObject:
   - component: {fileID: 596522192}
   - component: {fileID: 596522191}
   m_Layer: 0
-  m_Name: ZombieTorpe (9)
+  m_Name: ZombieTorpe6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8311,6 +8749,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
   m_PrefabInstance: {fileID: 619131555}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &626809989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 626809990}
+  - component: {fileID: 626809994}
+  - component: {fileID: 626809993}
+  - component: {fileID: 626809992}
+  - component: {fileID: 626809991}
+  m_Layer: 0
+  m_Name: ZombieEspabilado9
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &626809990
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626809989}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.23, y: -0.51, z: -57.84}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 188521420}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &626809991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626809989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &626809992
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626809989}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &626809993
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626809989}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &626809994
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 626809989}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &628506172
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11080,6 +11638,72 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
   m_PrefabInstance: {fileID: 888282831}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &891163677
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1206753159}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &891163678 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 891163677}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &904711003
 GameObject:
   m_ObjectHideFlags: 0
@@ -12271,6 +12895,38 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4542802297106392, guid: 8a46d37979b9c6e43aef7bd53494227b, type: 3}
   m_PrefabInstance: {fileID: 988288183}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &990378447
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 990378448}
+  m_Layer: 0
+  m_Name: BossZombie
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &990378448
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 990378447}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.599493, y: 0.5966264, z: 18.592276}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1396813058}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &993051411
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12398,6 +13054,72 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4937060029079926, guid: 24a5f7c212479624ba65a0ad94f34342, type: 3}
   m_PrefabInstance: {fileID: 1003098815}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1004630270
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1613169249}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &1004630271 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 1004630270}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1005599104
 PrefabInstance:
@@ -12614,7 +13336,7 @@ GameObject:
   - component: {fileID: 1022772436}
   - component: {fileID: 1022772435}
   m_Layer: 0
-  m_Name: ZombieTorpe (4)
+  m_Name: ZombieTorpe3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12714,7 +13436,7 @@ GameObject:
   - component: {fileID: 1022788336}
   - component: {fileID: 1022788335}
   m_Layer: 0
-  m_Name: ZombieTorpe (19)
+  m_Name: ZombieTorpe19
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12983,7 +13705,7 @@ GameObject:
   - component: {fileID: 1043594159}
   - component: {fileID: 1043594158}
   m_Layer: 0
-  m_Name: ZombieTorpe (2)
+  m_Name: ZombieTorpe4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13439,8 +14161,9 @@ GameObject:
   - component: {fileID: 1080274322}
   - component: {fileID: 1080274321}
   - component: {fileID: 1080274320}
+  - component: {fileID: 1080274323}
   m_Layer: 0
-  m_Name: ZombieEspabilado (1)
+  m_Name: ZombieEspabilado1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13477,9 +14200,9 @@ MonoBehaviour:
   targetTag: Player
   distanciaSeguimiento: 10
   speed: 0.6
-  minAngle: 0
-  maxAngle: 0
-  distanciaAPlayer: 0
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
 --- !u!54 &1080274321
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -13530,6 +14253,22 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!114 &1080274323
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1080274318}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
 --- !u!1001 &1082150162
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15010,7 +15749,7 @@ GameObject:
   - component: {fileID: 1183240442}
   - component: {fileID: 1183240441}
   m_Layer: 0
-  m_Name: ZombieTorpe (11)
+  m_Name: ZombieTorpe8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15307,8 +16046,9 @@ GameObject:
   - component: {fileID: 1194243582}
   - component: {fileID: 1194243581}
   - component: {fileID: 1194243580}
+  - component: {fileID: 1194243583}
   m_Layer: 0
-  m_Name: ZombieEspabilado (5)
+  m_Name: ZombieEspabilado5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15345,9 +16085,9 @@ MonoBehaviour:
   targetTag: Player
   distanciaSeguimiento: 10
   speed: 0.6
-  minAngle: 0
-  maxAngle: 0
-  distanciaAPlayer: 0
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
 --- !u!54 &1194243581
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15398,6 +16138,22 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!114 &1194243583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1194243578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
 --- !u!1001 &1204474652
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15476,6 +16232,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4668014256311012, guid: a7eb417a6c9b1d94aa4238bd72633934, type: 3}
   m_PrefabInstance: {fileID: 1204474652}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1206753158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1206753159}
+  - component: {fileID: 1206753163}
+  - component: {fileID: 1206753162}
+  - component: {fileID: 1206753161}
+  - component: {fileID: 1206753160}
+  m_Layer: 0
+  m_Name: ZombieEspabilado6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1206753159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1206753158}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 7.4, y: -0.51, z: -56.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 891163678}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1206753160
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1206753158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &1206753161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1206753158}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &1206753162
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1206753158}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &1206753163
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1206753158}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1 &1209321009
 GameObject:
   m_ObjectHideFlags: 0
@@ -15488,8 +16364,9 @@ GameObject:
   - component: {fileID: 1209321012}
   - component: {fileID: 1209321011}
   - component: {fileID: 1209321010}
+  - component: {fileID: 1209321014}
   m_Layer: 0
-  m_Name: ZombieEspabilado
+  m_Name: ZombieEspabilado0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15510,9 +16387,9 @@ MonoBehaviour:
   targetTag: Player
   distanciaSeguimiento: 10
   speed: 0.6
-  minAngle: 0
-  maxAngle: 0
-  distanciaAPlayer: 0
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
 --- !u!54 &1209321011
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -15579,6 +16456,22 @@ Transform:
   - {fileID: 1431800934}
   m_Father: {fileID: 1372346378}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1209321014
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1209321009}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
 --- !u!1001 &1216456177
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -15889,7 +16782,7 @@ GameObject:
   - component: {fileID: 1230741094}
   - component: {fileID: 1230741093}
   m_Layer: 0
-  m_Name: ZombieTorpe (17)
+  m_Name: ZombieTorpe17
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16449,6 +17342,72 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4187361873712528, guid: dc83d82e59754f34ea737a544b53fc9a, type: 3}
   m_PrefabInstance: {fileID: 1260614828}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1263120972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1396813058}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &1263120973 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 1263120972}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1264314924
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16522,8 +17481,8 @@ GameObject:
   - component: {fileID: 1277368581}
   m_Layer: 0
   m_Name: Zombies
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
+  m_TagString: Zombies
+  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
@@ -17555,6 +18514,13 @@ Transform:
   - {fileID: 1871041562}
   - {fileID: 1981340985}
   - {fileID: 1194243579}
+  - {fileID: 1206753159}
+  - {fileID: 520204805}
+  - {fileID: 1720833308}
+  - {fileID: 626809990}
+  - {fileID: 1613169249}
+  - {fileID: 582707808}
+  - {fileID: 1519596471}
   m_Father: {fileID: 1277368581}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1375897807
@@ -17848,6 +18814,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4838848054478644, guid: f7752189d25c7ce4887212db1164ed51, type: 3}
   m_PrefabInstance: {fileID: 1385604959}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1396813057
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1396813058}
+  - component: {fileID: 1396813062}
+  - component: {fileID: 1396813061}
+  - component: {fileID: 1396813060}
+  - component: {fileID: 1396813059}
+  m_Layer: 0
+  m_Name: JefeZombie
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1396813058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396813057}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 31.860003, y: -0.51, z: -22.3}
+  m_LocalScale: {x: 2.0872, y: 2.0872, z: 2.0872}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1263120973}
+  m_Father: {fileID: 990378448}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1396813059
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396813057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 2
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 100
+  targetTag: Player
+--- !u!114 &1396813060
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396813057}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 2
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &1396813061
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396813057}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &1396813062
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1396813057}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &1398674281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -19377,7 +20463,7 @@ GameObject:
   - component: {fileID: 1496526610}
   - component: {fileID: 1496526609}
   m_Layer: 0
-  m_Name: ZombieTorpe (6)
+  m_Name: ZombieTorpe12
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -19830,6 +20916,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4085817629277290, guid: 5a7e024a4b80fb1478d3f46d37137bf6, type: 3}
   m_PrefabInstance: {fileID: 1513168440}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1519596470
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1519596471}
+  - component: {fileID: 1519596475}
+  - component: {fileID: 1519596474}
+  - component: {fileID: 1519596473}
+  - component: {fileID: 1519596472}
+  m_Layer: 0
+  m_Name: ZombieEspabilado12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1519596471
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519596470}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.36, y: -0.51, z: -53.89}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2107673746}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1519596472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519596470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &1519596473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519596470}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &1519596474
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519596470}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &1519596475
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1519596470}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &1524215731
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21030,6 +22236,126 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
   m_PrefabInstance: {fileID: 1609151409}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1613169248
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1613169249}
+  - component: {fileID: 1613169253}
+  - component: {fileID: 1613169252}
+  - component: {fileID: 1613169251}
+  - component: {fileID: 1613169250}
+  m_Layer: 0
+  m_Name: ZombieEspabilado10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1613169249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613169248}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 5.26, y: -0.51, z: -57.84}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1004630271}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1613169250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613169248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &1613169251
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613169248}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &1613169252
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613169248}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &1613169253
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1613169248}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &1621272204
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21399,7 +22725,7 @@ GameObject:
   - component: {fileID: 1655090701}
   - component: {fileID: 1655090700}
   m_Layer: 0
-  m_Name: ZombieTorpe (12)
+  m_Name: ZombieTorpe9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -21996,6 +23322,126 @@ Transform:
   - {fileID: 885821836}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1720833307
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1720833308}
+  - component: {fileID: 1720833312}
+  - component: {fileID: 1720833311}
+  - component: {fileID: 1720833310}
+  - component: {fileID: 1720833309}
+  m_Layer: 0
+  m_Name: ZombieEspabilado8
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1720833308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720833307}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.51, y: -0.51, z: -57.84}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1921075770}
+  m_Father: {fileID: 1372346378}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1720833309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720833307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
+--- !u!114 &1720833310
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720833307}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  targetTag: Player
+  distanciaSeguimiento: 10
+  speed: 0.6
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
+--- !u!54 &1720833311
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720833307}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 80
+  m_CollisionDetection: 0
+--- !u!136 &1720833312
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1720833307}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.5
+  m_Height: 1.78
+  m_Direction: 1
+  m_Center: {x: 0, y: 0.94, z: 0}
 --- !u!1001 &1728014052
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -24390,7 +25836,7 @@ GameObject:
   - component: {fileID: 1839912700}
   - component: {fileID: 1839912699}
   m_Layer: 0
-  m_Name: ZombieTorpe (13)
+  m_Name: ZombieTorpe13
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24861,8 +26307,9 @@ GameObject:
   - component: {fileID: 1871041565}
   - component: {fileID: 1871041564}
   - component: {fileID: 1871041563}
+  - component: {fileID: 1871041566}
   m_Layer: 0
-  m_Name: ZombieEspabilado (3)
+  m_Name: ZombieEspabilado3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24899,9 +26346,9 @@ MonoBehaviour:
   targetTag: Player
   distanciaSeguimiento: 10
   speed: 0.6
-  minAngle: 0
-  maxAngle: 0
-  distanciaAPlayer: 0
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
 --- !u!54 &1871041564
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -24952,6 +26399,22 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!114 &1871041566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1871041561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
 --- !u!1001 &1884196117
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25095,6 +26558,72 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 694a9c3445f3cb0448c24a04ce64d96d, type: 3}
+--- !u!1001 &1921075769
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1720833308}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &1921075770 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 1921075769}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1926256459
 GameObject:
   m_ObjectHideFlags: 0
@@ -25107,8 +26636,9 @@ GameObject:
   - component: {fileID: 1926256463}
   - component: {fileID: 1926256462}
   - component: {fileID: 1926256461}
+  - component: {fileID: 1926256464}
   m_Layer: 0
-  m_Name: ZombieEspabilado (2)
+  m_Name: ZombieEspabilado2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25145,9 +26675,9 @@ MonoBehaviour:
   targetTag: Player
   distanciaSeguimiento: 10
   speed: 0.6
-  minAngle: 0
-  maxAngle: 0
-  distanciaAPlayer: 0
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
 --- !u!54 &1926256462
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -25198,6 +26728,22 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!114 &1926256464
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1926256459}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
 --- !u!1001 &1927575316
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -25479,7 +27025,7 @@ GameObject:
   - component: {fileID: 1952177889}
   - component: {fileID: 1952177888}
   m_Layer: 0
-  m_Name: ZombieTorpe (8)
+  m_Name: ZombieTorpe10
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25579,7 +27125,7 @@ GameObject:
   - component: {fileID: 1955530827}
   - component: {fileID: 1955530826}
   m_Layer: 0
-  m_Name: ZombieTorpe (7)
+  m_Name: ZombieTorpe5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26026,8 +27572,9 @@ GameObject:
   - component: {fileID: 1981340988}
   - component: {fileID: 1981340987}
   - component: {fileID: 1981340986}
+  - component: {fileID: 1981340989}
   m_Layer: 0
-  m_Name: ZombieEspabilado (4)
+  m_Name: ZombieEspabilado4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26064,9 +27611,9 @@ MonoBehaviour:
   targetTag: Player
   distanciaSeguimiento: 10
   speed: 0.6
-  minAngle: 0
-  maxAngle: 0
-  distanciaAPlayer: 0
+  minAngle: 110
+  maxAngle: 220
+  distanciaAPlayer: 5
 --- !u!54 &1981340987
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -26117,6 +27664,22 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!114 &1981340989
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1981340984}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  distanciaExplosion: 3
+  prefabExplosion: {fileID: 2433282508537954060, guid: 969ebacb29c63aa4abaa26a11aeeb19a, type: 3}
+  damage: 20
+  targetTag: Player
 --- !u!1001 &1983092208
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26545,7 +28108,7 @@ GameObject:
   - component: {fileID: 2014832417}
   - component: {fileID: 2014832416}
   m_Layer: 0
-  m_Name: ZombieTorpe (14)
+  m_Name: ZombieTorpe14
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26979,7 +28542,7 @@ GameObject:
   - component: {fileID: 2096975642}
   - component: {fileID: 2096975641}
   m_Layer: 0
-  m_Name: ZombieTorpe (3)
+  m_Name: ZombieTorpe2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27165,6 +28728,72 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!1001 &2107673745
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1519596471}
+    m_Modifications:
+    - target: {fileID: 100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Name
+      value: Base mesh fbx
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9500000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 92d9c4b5ab07fb54782fc9d1b6ad4049, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+--- !u!4 &2107673746 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 400000, guid: 9776c2c565280054689a67587800f1d9, type: 3}
+  m_PrefabInstance: {fileID: 2107673745}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2107936229
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27539,7 +29168,7 @@ GameObject:
   - component: {fileID: 4628838531523241}
   - component: {fileID: 4628838531523240}
   m_Layer: 0
-  m_Name: ZombieTorpe
+  m_Name: ZombieTorpe0
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27903,3 +29532,4 @@ SceneRoots:
   - {fileID: 1785353976}
   - {fileID: 4671222429273096106}
   - {fileID: 1277368581}
+  - {fileID: 990378448}
