@@ -2723,6 +2723,7 @@ GameObject:
   - component: {fileID: 193265040}
   - component: {fileID: 193265039}
   - component: {fileID: 193265038}
+  - component: {fileID: 193265041}
   m_Layer: 0
   m_Name: HealthBar
   m_TagString: Untagged
@@ -2813,6 +2814,19 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &193265041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 193265036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea324db8464cf1a4c80562f8c199cc15, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  barImage: {fileID: 1551767770}
 --- !u!1001 &194318940
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17584,7 +17598,7 @@ GameObject:
   m_Layer: 0
   m_Name: Zombies
   m_TagString: Zombies
-  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
