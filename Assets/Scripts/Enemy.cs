@@ -1,18 +1,44 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+        [SerializeField] private HealthBar healthBar;
+        [SerializeField] private GameObject dieEffect;
+        [SerializeField] private float maxHealth;
+        private float health;
+        private SpriteRenderer spriteRenderer;
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+        private void Start()
+        {
+            health = maxHealth;
+            spriteRenderer = GetComponent<SpriteRenderer>();
+        }
+
+        private void OnMouseDown()
+        { 
+            StartCoroutine(GetDamage());
+
+        }   
+
+        IEnumerator GetDamage()
+        {
+            float damageDuration = 0.1f;
+            float damage = Random.Range(1f, 5f)
+            health -= damage;
+            if (health > 0)
+            {
+                spriteRenderer.color = Color.red;
+                yield return new WaitForSeconds(damageDuration);
+                spriteRenderer.color = Color.white;
+            }
+            else
+            {
+                Instantiate(dieEffect, transform.position, Quaternion.identity);
+                Destroy(gameObject);
+            }
+        }
+
 }
