@@ -12082,8 +12082,6 @@ GameObject:
   - component: {fileID: 1209321013}
   - component: {fileID: 1209321012}
   - component: {fileID: 1209321011}
-  - component: {fileID: 1209321010}
-  - component: {fileID: 1209321014}
   m_Layer: 0
   m_Name: ZombieEspabilado1
   m_TagString: Untagged
@@ -12091,24 +12089,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1209321010
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1209321009}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 42c3d8f87724ba146905bc9337a50cab, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  targetTag: Player
-  distanciaSeguimiento: 10
-  speed: 0.6
-  minAngle: 110
-  maxAngle: 220
-  distanciaAPlayer: 5
 --- !u!54 &1209321011
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -12175,22 +12155,6 @@ Transform:
   - {fileID: 1431800934}
   m_Father: {fileID: 1372346378}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1209321014
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1209321009}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2cd2c0ed8cbe0544486d4a1f3a70113f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  distanciaExplosion: 3
-  prefabExplosion: {fileID: 139366, guid: b185c1a9cf067374586d095111b15bd1, type: 3}
-  damage: 20
-  targetTag: Player
 --- !u!1001 &1223290263
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13987,21 +13951,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4668014256311012, guid: a7eb417a6c9b1d94aa4238bd72633934, type: 3}
   m_PrefabInstance: {fileID: 1381946036}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1384378076
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1619740051028919}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0758d990000b400488706c0c56f2403b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 0.2
-  minAngle: 110
-  maxAngle: 220
 --- !u!1001 &1385604959
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -21023,9 +20972,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4628838531523239}
-  - component: {fileID: 1384378076}
   - component: {fileID: 4628838531523241}
   - component: {fileID: 4628838531523240}
+  - component: {fileID: 4628838531523242}
   m_Layer: 0
   m_Name: ZombieTorpe
   m_TagString: Untagged
@@ -21100,6 +21049,21 @@ CapsuleCollider:
   m_Height: 1.78
   m_Direction: 1
   m_Center: {x: 0, y: 0.94, z: 0}
+--- !u!114 &4628838531523242
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1619740051028919}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0758d990000b400488706c0c56f2403b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 2
+  minAngle: 110
+  maxAngle: 220
 --- !u!136 &404919862748203409
 CapsuleCollider:
   m_ObjectHideFlags: 0
