@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 8549641843754557215}
   - component: {fileID: 294976269537729487}
   m_Layer: 0
-  m_Name: ZombieTorpe
+  m_Name: ZombieTorpe_Img
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
