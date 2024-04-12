@@ -3573,13 +3573,17 @@ PrefabInstance:
       propertyPath: m_FillAmount
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6077721966798482087, guid: 02abbd666ac104141ad492cdc2e4bddb, type: 3}
+      propertyPath: m_Name
+      value: Background
+      objectReference: {fileID: 0}
     - target: {fileID: 6870365661708973803, guid: 02abbd666ac104141ad492cdc2e4bddb, type: 3}
       propertyPath: m_FillAmount
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6870365661708973803, guid: 02abbd666ac104141ad492cdc2e4bddb, type: 3}
       propertyPath: m_FillOrigin
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6905842540979181409, guid: 02abbd666ac104141ad492cdc2e4bddb, type: 3}
       propertyPath: m_LocalPosition.x
@@ -7602,7 +7606,7 @@ GameObject:
   - component: {fileID: 735855450}
   - component: {fileID: 735855451}
   m_Layer: 0
-  m_Name: IS - Bow 472-1
+  m_Name: Arco
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
