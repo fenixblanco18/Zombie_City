@@ -12234,7 +12234,7 @@ GameObject:
   - component: {fileID: 1205801048}
   - component: {fileID: 1205801047}
   m_Layer: 5
-  m_Name: Text_Score
+  m_Name: Puntuacion
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17592,7 +17592,7 @@ GameObject:
   - component: {fileID: 1740949588}
   - component: {fileID: 1740949587}
   m_Layer: 5
-  m_Name: Text_HScore
+  m_Name: PuntuacionMaxima
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
