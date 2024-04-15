@@ -1825,6 +1825,8 @@ GameObject:
   - component: {fileID: 174678277}
   - component: {fileID: 174678280}
   - component: {fileID: 174678279}
+  - component: {fileID: 174678282}
+  - component: {fileID: 174678281}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -1897,6 +1899,41 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 174678276}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &174678281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174678276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89106361a1296d94cbc5de6f39647bec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  danyo: 1
+  frecuencia: 0.5
+--- !u!135 &174678282
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 174678276}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1001 &178843961
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16684,6 +16721,8 @@ GameObject:
   - component: {fileID: 1636221025}
   - component: {fileID: 1636221028}
   - component: {fileID: 1636221027}
+  - component: {fileID: 1636221030}
+  - component: {fileID: 1636221029}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -16756,6 +16795,41 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1636221024}
   m_Mesh: {fileID: 10207, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!114 &1636221029
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636221024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89106361a1296d94cbc5de6f39647bec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  danyo: -1
+  frecuencia: 0.5
+--- !u!135 &1636221030
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1636221024}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.5
+  m_Center: {x: 0, y: -0.000000059604645, z: 0}
 --- !u!1001 &1682893877
 PrefabInstance:
   m_ObjectHideFlags: 0
