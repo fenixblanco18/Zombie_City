@@ -21256,6 +21256,14 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 777514081988157210, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 777514081988157210, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 878732537890754282, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
       propertyPath: prefabObjetoReemplazo
       value: 
@@ -21303,6 +21311,14 @@ PrefabInstance:
     - target: {fileID: 4311516401922568946, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
       propertyPath: m_Name
       value: ZombieTorpe_Slid
+      objectReference: {fileID: 0}
+    - target: {fileID: 7077356329080890073, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7077356329080890073, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8407258475494084842, guid: d50a5ac252cb4a54ca3c3f0f7f1d8b05, type: 3}
       propertyPath: m_Value
