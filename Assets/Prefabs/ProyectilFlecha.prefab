@@ -18,7 +18,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &5172704378496122486
 Transform:
   m_ObjectHideFlags: 0
@@ -117,7 +117,7 @@ GameObject:
   - component: {fileID: 4530773452027444058}
   - component: {fileID: 3878460890346237183}
   m_Layer: 0
-  m_Name: Proyectil
+  m_Name: ProyectilFlecha
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -136,6 +136,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
+  - {fileID: 206353850659210947}
   - {fileID: 7597126936408690534}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -182,6 +183,92 @@ MonoBehaviour:
   pupa: 10
   autodestruccion: 1
   tagEnemigo: Zombies
+--- !u!1001 &3572391932010037830
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8650701834234602389}
+    m_Modifications:
+    - target: {fileID: 947582456095891206, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.6922999
+      objectReference: {fileID: 0}
+    - target: {fileID: 947582456095891206, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 947582456095891206, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.72161
+      objectReference: {fileID: 0}
+    - target: {fileID: 947582456095891206, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000029802319
+      objectReference: {fileID: 0}
+    - target: {fileID: 947582456095891206, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -92.375
+      objectReference: {fileID: 0}
+    - target: {fileID: 3222183289885407375, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_Name
+      value: FlechaElfica
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.27042
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9985849
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.053180642
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 6.097
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+--- !u!4 &206353850659210947 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3697088277161804933, guid: 86173105075b5e249ac7dbb3a71e0996, type: 3}
+  m_PrefabInstance: {fileID: 3572391932010037830}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &7592113170414072889
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -257,6 +344,10 @@ PrefabInstance:
     - target: {fileID: 8224001800106300344, guid: d1a53ed205b820948bac2a14f7a1fe92, type: 3}
       propertyPath: m_Name
       value: Flecha
+      objectReference: {fileID: 0}
+    - target: {fileID: 8224001800106300344, guid: d1a53ed205b820948bac2a14f7a1fe92, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
