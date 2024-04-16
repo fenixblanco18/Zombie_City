@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class RotadorTorreta : MonoBehaviour
 {
+    private GameObject player;
     private float h;
     [SerializeField]
     private float velocidadGiroHorizontal;
 
-    // Update is called once per frame
-    void Update()
-    {
-        h = Input.GetAxis("Horizontal");
-        transform.Rotate(0,h*Time.deltaTime*velocidadGiroHorizontal,0);
+    void Awake(){
+        player = GameObject.Find("Player");
     }
+
+    // Update is called once per frame
 }
